@@ -55,3 +55,4 @@ class _FadingTextAnimationState extends State<FadingTextAnimation> {
     );
   }
 }
+
